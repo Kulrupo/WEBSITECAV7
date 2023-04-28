@@ -1,1 +1,1 @@
-https://marcelopaludetto2.github.io/js-escrevenome/(A)index.html
+https://Kulrupo.github.io/js-escrevenome/(A)index.html
