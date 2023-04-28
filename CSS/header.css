@@ -1,0 +1,16 @@
+header{ 
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    padding-top: 10px;
+padding-bottom: 10px;
+    background-color:#26135f;
+position: sticky;
+top: 0;
+width: 100%;
+}
+
+.white{
+    padding-top: 10px;
+    color: rgb(240, 240, 240);
+}

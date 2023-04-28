@@ -1,0 +1,46 @@
+.logo{display: flex; justify-content: center;}
+.cabeça{
+       padding-top: 70px;
+       height: 380px;
+       padding-right: 10px;
+       background-color: #ffffff;
+text-align: center;
+box-sizing: border-box;
+}
+
+.imagem{text-align: center;}
+
+.foto{
+       height: 150px;
+       width: 150px;
+       border-radius: 50%;
+       border-style: solid;
+       border-color: #26135f;
+}
+
+
+.tudo{display: flex;
+      justify-content: center;
+      background-color: #f9f8fc;
+
+}
+
+.todomundo{padding: 10px 50px; 
+       padding-top: 40px;
+
+}
+
+.todomundo h4{
+       color: #26135f;
+       font-size:  35px;
+       margin: 0;
+       padding: 10px;
+       font-family: sans-serif;
+       
+}
+
+.todomundo p{
+
+       padding: 0;
+       margin: 0;
+}

@@ -1,0 +1,12 @@
+body{
+    -ms-overflow-style: none; /* remove scrollbar do internet explorer e do edge */
+    scrollbar-width: none;  /* remove scrollbar do firefox */
+    overflow: scroll;  /* faz o safari, chrome e opera poderem dar scroll*/
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none; /* isso esconde a scrollbar do safari chrome e opera*/
+  }
+
